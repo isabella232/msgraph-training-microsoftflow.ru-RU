@@ -16,6 +16,6 @@
 - Доступ администратора к Office 365. Если у вас его нет, посетите страницу [Office 365 для разработчиков](https://developer.microsoft.com/office/dev-program) , чтобы зарегистрироваться в бесплатном клиенте для разработчиков.
 - Доступ к [Microsoft Flow](https://flow.microsoft.com/).
 
-## <a name="feedback"></a>Отзывы
+## <a name="feedback"></a>Обратная связь
 
 Сообщите о нем в [репозиторий GitHub](https://github.com/microsoftgraph/msgraph-training-microsoftflow).
